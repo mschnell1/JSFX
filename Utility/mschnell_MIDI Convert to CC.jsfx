@@ -1,7 +1,7 @@
 desc: MIDI convert to CC
 author: Michael Schnell (mschnell@bschnell.de)
 version: 2.0
-changelog: initial release
+changelog: Added Max CC Value slider
 donation: United Nations Foundation http://www.unfoundation.org/
 about:
   ## Description
